@@ -1,0 +1,19 @@
+{
+  "name": "note-app_dona",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/donabalaoro/note-app_Dona.git"
+  },
+  "author": "Dona Balaoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/donabalaoro/note-app_Dona/issues"
+  },
+  "homepage": "https://github.com/donabalaoro/note-app_Dona#readme"
+}
